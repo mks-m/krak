@@ -6,7 +6,7 @@
 
 Add the following to your project.clj's dependencies:
 
-![](https://clojars.org/org.clojars.keymone/krak/latest-version.svg)
+![](https://clojars.org/krak/latest-version.svg)
 
 ## Dependencies
 
