@@ -31,7 +31,7 @@ Add the following to your project.clj's dependencies:
 ;; nonce offset (nonce-offset named argument)
 (def kctx (k/new-context api-key secret-key))
 
-(get-in (k/balance kctx) [:data "result"])
+(:krak/result (k/balance kctx))
 ;; => {"XXBT" "millions", "XETH" "billions"}
 ```
 
