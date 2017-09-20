@@ -1,4 +1,4 @@
-(defproject krak "0.1.0"
+(defproject krak "0.1.1"
   :description "Kraken API"
   :url "http://github.com/keymone/krak"
   :license {:name "MIT License"

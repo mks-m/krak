@@ -6,7 +6,7 @@
 
 Add the following to your project.clj's dependencies:
 
-![](https://clojars.org/krak/latest-version.svg)
+[![Clojars krak](https://img.shields.io/clojars/v/krak.svg)](https://clojars.org/krak)
 
 ## Dependencies
 
